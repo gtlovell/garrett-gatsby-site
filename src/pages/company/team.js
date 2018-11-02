@@ -1,11 +1,11 @@
 import React from 'react'
 
-import Layout from '../components/layout'
+import Layout from '../../components/layout'
 
-const About = () => (
+const Team = () => (
   <Layout>
     <div>
-      <h1>About Us</h1>
+      <h1>The Team</h1>
       <p>
         Lorem ipsum dolor amet disrupt shabby chic sriracha forage yr green
         juice kinfolk ennui taxidermy godard mlkshk affogato art party 8-bit
@@ -18,4 +18,4 @@ const About = () => (
   </Layout>
 )
 
-export default About
+export default Team
